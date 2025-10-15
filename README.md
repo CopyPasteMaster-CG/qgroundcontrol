@@ -15,5 +15,6 @@
 
 
 使用官方的要求的1.15版本QT，在QGC地面站的基础上增加抛投控制按钮界面，增加自定义mavlink消息，发送自定义消息与飞控通信，控制抛投装置抛投。打包生成windows和安卓两个版本
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0b5b010e-d8be-403f-b9ae-2d36489fa17b" />
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0f4b31dc-5545-47a9-907e-e9fea44664dd" />
