@@ -1,4 +1,4 @@
-
+<img width="1159" height="877" alt="image" src="https://github.com/user-attachments/assets/371c5635-1c2b-403c-9770-0486559a41b3" />
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dronecode/UX-Design/35d8148a8a0559cd4bcf50bfa2c94614983cce91/QGC/Branding/Deliverables/QGC_RGB_Logo_Horizontal_Positive_PREFERRED/QGC_RGB_Logo_Horizontal_Positive_PREFERRED.svg" alt="QGroundControl Logo" width="500">
 </p>
@@ -13,44 +13,7 @@
 
 ---
 
-### 🌟 *Why Choose QGroundControl?*
 
-- *🚀 Ease of Use*: A beginner-friendly interface designed for smooth operation without sacrificing advanced features for pros.
-- *✈️ Comprehensive Flight Control*: Full flight control and mission management for *PX4* and *ArduPilot* powered UAVs.
-- *🛠️ Mission Planning*: Easily plan complex missions with a simple drag-and-drop interface.
+使用官方的要求的1.15版本QT，在QGC地面站的基础上增加抛投控制按钮界面，增加自定义mavlink消息，发送自定义消息与飞控通信，控制抛投装置抛投。打包生成windows和安卓两个版本
 
-🔍 For a deeper dive into using QGC, check out the [User Manual](https://docs.qgroundcontrol.com/en/) – although, thanks to QGC's intuitive UI, you may not even need it!
-
-
----
-
-### 🚁 *Key Features*
-
-- 🕹️ *Full Flight Control*: Supports all *MAVLink drones*.
-- ⚙️ *Vehicle Setup*: Tailored configuration for *PX4* and *ArduPilot* platforms.
-- 🔧 *Fully Open Source*: Customize and extend the software to suit your needs.
-
-🎯 Check out the latest updates in our [New Features and Release Notes](https://github.com/mavlink/qgroundcontrol/blob/master/ChangeLog.md).
-
----
-
-### 💻 *Get Involved!*
-
-QGroundControl is *open-source*, meaning you have the power to shape it! Whether you're fixing bugs, adding features, or customizing for your specific needs, QGC welcomes contributions from the community.
-
-🛠️ Start building today with our [Developer Guide](https://dev.qgroundcontrol.com/en/) and [build instructions](https://dev.qgroundcontrol.com/en/getting_started/).
-
----
-
-### 🔗 *Useful Links*
-
-- 🌐 [Official Website](http://qgroundcontrol.com)
-- 📘 [User Manual](https://docs.qgroundcontrol.com/en/)
-- 🛠️ [Developer Guide](https://dev.qgroundcontrol.com/en/)
-- 💬 [Discussion & Support](https://docs.qgroundcontrol.com/en/Support/Support.html)
-- 🤝 [Contributing](https://dev.qgroundcontrol.com/en/contribute/)
-- 📜 [License Information](https://github.com/mavlink/qgroundcontrol/blob/master/.github/COPYING.md)
-
----
-
-With QGroundControl, you're in full command of your UAV, ready to take your missions to the next level.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0f4b31dc-5545-47a9-907e-e9fea44664dd" />
